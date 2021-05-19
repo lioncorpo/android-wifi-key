@@ -1,0 +1,10 @@
+.idea
+*.iml
+local.properties
+build
+.gradle
+.settings
+.project
+.classpath
+release
+android-wifi-key-view.iml
